@@ -1,1 +1,1 @@
-# CTP-sem2-checkpoint1
+# Semestre 2 - Checkpoint 1
